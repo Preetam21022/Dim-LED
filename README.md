@@ -1,4 +1,3 @@
-
 # 🎲Electronic Basics #2: Dimming all kinds of LEDs!?
 
 This is a video from the playlist:
@@ -12,7 +11,12 @@ This was uploaded by a youtube channel:
 The video link is: 
 https://youtu.be/jQ3JHknsM4o?si=GIuSm2_7-Tp-Ujzn
 
-The code, schematic and sketch are also uploaded by: [GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
+Tinker CAD link:
+[1) Simple Dimming LED](https://www.tinkercad.com/things/kyTZ6RSiEWP-dimming-led)
+[2) LED Strip using MOSFET ad NE555 Timer IC]()
+
+
+The code, schematic and sketch can also be found in the video: https://youtu.be/jQ3JHknsM4o?si=GIuSm2_7-Tp-Ujzn
 
 Arduino Basics Info: 
 -
