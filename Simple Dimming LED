@@ -1,0 +1,14 @@
+int ledpin=9;
+int potentiometer=A0;
+int potentiometervalue;
+void setup() 
+{
+pinMode(ledpin, OUTPUT);
+pinMode(potentiometervalue, INPUT); 
+}
+void loop() 
+{
+potentiometervalue=analogRead(potentiometer);
+potentiometervalue=map(potentiometervalue, 0,1023,0,255); //map(value, fromLow, fromHigh, toLow, toHigh)
+analogWrite(ledpin, potentiometervalue); 
+}
