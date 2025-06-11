@@ -15,7 +15,9 @@ https://youtu.be/jQ3JHknsM4o?si=GIuSm2_7-Tp-Ujzn
 -
 [1) Simple Dimming LED](https://www.tinkercad.com/things/kyTZ6RSiEWP-dimming-led)
 -
-[2) LED Strip using MOSFET ad NE555 Timer IC]()
+[2) Dimming LED using NE555 Timer IC]()
+-
+[3) Dimming high power LED Strip using MOSFET and NE555 Timer IC]()
 -
 
 
